@@ -1,0 +1,12 @@
+/*Styles.css*/
+body{background-color: rgb(178, 179, 180);}
+h1{
+    color:rgb(34, 66, 52);
+    text-align: center;
+    text-shadow: 1cap;
+    size: 2in;
+}
+p{
+    color: black;
+    size: 1in;
+}
