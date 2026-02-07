@@ -6,7 +6,16 @@ h1{
     text-shadow: 1cap;
     size: 2in;
 }
+
 p{
     color: black;
     size: 1in;
+}
+
+img {
+border: 1px solid #000000;
+border-radius: 4px;
+padding: 5px;
+width: 150px;
+align-self: center;
 }
